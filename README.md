@@ -44,8 +44,8 @@ A full-stack blogging platform built using the **MERN Stack** that allows users 
 - Middleware
 
 ### Database
-- MySQL
-- Sequelize ORM
+- mongoDB
+- moongoose
 
 ## 📂 Project Structure
 
